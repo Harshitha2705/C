@@ -6,6 +6,7 @@ int main() {
     scanf("%d",&n);
     if(n%2==0)
     printf("It is a even number");
-
+    else
+    printf("It is a negative number");
     return 0;
 }
