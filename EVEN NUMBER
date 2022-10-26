@@ -5,7 +5,7 @@ int main() {
     printf("enter number",n);
     scanf("%d",&n);
     if(n%2==0)
-    printf("It is a Positive number");
+    printf("It is a even number");
 
     return 0;
 }
